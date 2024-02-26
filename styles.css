@@ -1,0 +1,43 @@
+@charset "utf-8";
+body div {
+	margin-left: 15%;
+	width: 70%;
+	background-color: #fffCF2;
+}
+body {
+	background-color: #252422;
+}
+.bannerpic {
+}
+.bannerpic img {
+	width: 100%;
+	padding: 2%;
+	height: auto;
+}
+article {
+	clear: both;
+}
+
+.floatpicright {
+}
+.floatpicright p img {
+	width: 33%;
+	height: auto;
+	padding: 2%;
+	float: right;
+}
+.floatpicleft {
+}
+.floatpicleft {
+	width: 33%;
+	height: auto;
+}
+.floatpicmiddle {
+}
+.floatpicmiddle p img {
+	width: 33%;
+	height: auto;
+}
+.floatpicmiddle p {
+	text-align: center;
+}
